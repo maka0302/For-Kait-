@@ -45,6 +45,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
       <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_7506.JPEG?raw=true" style="width:100%" onclick="onClick(this)" alt="The first time we decided to hangout! -January 31,2022">
       <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_8761.JPEG?raw=true" style="width:100%" onclick="onClick(this)" alt="Skyblossom Galentines day!! -February 13,2022">
       <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_2429.jpeg?raw=true" style="width:100%" onclick="onClick(this)" alt="The day we visited my grandma and went to go get sushi! -March 7,2022">
+      <img src="https://github.com/maka0302/For-Kait-/blob/main/filtered-00E42E99-089F-4D7A-B1D3-0C214C2A8A99.mov?raw=true" style="widht:100%" onClick="onClick(this)" alt="That day on Em's kickback!! -March 4,2022">
     </div>
 
     <div class="w3-third">
