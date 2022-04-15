@@ -49,7 +49,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 
     <div class="w3-third">
       <img src="C:\Users\Mark Anton Rivera\Desktop\2nd time at ddonggo!\IMG_3663.JPG" style="width:100%" onclick="onClick(this)" alt="2nd time at ddonggo!! - February 11,2022">
-      <img src="C:\Users\Mark Anton Rivera\Desktop\Deep ellum!\D73704B8-0C3A-433A-BD0F-39F4EC3A4E2D.jpeg" style="width:100%" onclick="onClick(this)" alt="The day we went to Deep Ellum! -March 20,2022">
+      <img src="https://github.com/maka0302/For-Kait-/blob/main/D73704B8-0C3A-433A-BD0F-39F4EC3A4E2D.jpeg?raw=true" style="width:100%" onclick="onClick(this)" alt="The day we went to Deep Ellum! -March 20,2022">
       <img src="C:\Users\Mark Anton Rivera\Desktop\rave!\IMG_2996.jpeg" style="width:100%" onclick="onClick(this)" alt="Armnhmr! Our first concert/Rave together! -March 2,2022">
     </div>
     
