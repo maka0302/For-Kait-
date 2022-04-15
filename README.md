@@ -43,8 +43,8 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <div class="w3-row">
     <div class="w3-third">
       <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_7506.JPEG?raw=true" style="width:100%" onclick="onClick(this)" alt="The first time we decided to hangout! -January 31,2022">
-      <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_8761.JPEG?raw=true" style="width: 345px; height: 410px;" onclick="onClick(this)" alt="Skyblossom Galentines day!! -February 13,2022">
-      <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_2429.jpeg?raw=true" style="width: 345px; height:405px;" onclick="onClick(this)" alt="The day we visited my grandma and went to go get sushi! -March 7,2022">
+      <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_8761.JPEG?raw=true" style="width:100%" onclick="onClick(this)" alt="Skyblossom Galentines day!! -February 13,2022">
+      <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_2429.jpeg?raw=true" style="width:100%" onclick="onClick(this)" alt="The day we visited my grandma and went to go get sushi! -March 7,2022">
     </div>
 
     <div class="w3-third">
@@ -54,7 +54,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     </div>
     
     <div class="w3-third">
-        <img src="https://github.com/maka0302/For-Kait-/blob/main/omg.jpg?raw=true" style="width: 350px; height: 350px;" onclick="onClick(this)" alt="Our first time together in ddonggo! -February 6,2022">
+        <img src="https://github.com/maka0302/For-Kait-/blob/main/omg.jpg?raw=true" style="width:100%" onclick="onClick(this)" alt="Our first time together in ddonggo! -February 6,2022">
         <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_2360.jpeg?raw=true" style="width:100%" onclick="onClick(this)" alt="We visited my grandma! hehe -March 7,2022">
         <img src="https://github.com/maka0302/For-Kait-/blob/main/LP2.JPEG?raw=true" style="width:100%" onclick="onClick(this)" alt="The facetime call where I folded hard :D -February 7,2022">
         <img src="https://github.com/maka0302/For-Kait-/blob/main/Photo%20on%202-11-22%20at%208.23%20PM.jpg?raw=true" style="width:100%" onclick="onClick(this)" alt="First time in Mozart! -February 11,2022">
