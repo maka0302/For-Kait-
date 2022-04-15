@@ -21,7 +21,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <a href="javascript:void(0)" onclick="w3_close()" class="w3-bar-item w3-button w3-padding w3-hide-large">CLOSE</a>
   <a href="#" onclick="w3_close()" class="w3-bar-item w3-button">My favorite Pictures!</a> 
   <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">Something for you!</a>
-  <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">My favorite moments with you <3</a>
+  <a href="#My favorite moments with you" onclick="w3_close()" class="w3-bar-item w3-button">My favorite moments with you <3</a>
   
 </nav>
 
@@ -82,6 +82,8 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
       <p>Let me start with I'm glad that I met you! Ever since I met you life has been so bright and the future seems so much more brighter now! I know that this is our honeymoon phase but let me express how much I cherish what we have going and how much I'm so thankful for everything! Thankful for your care,worries,love, all the laughs that we have,our little adventures and etc you name it!! I know that this is a bit wonky and like a bit bad  but I hope that this would put a smile in your face and hopefully make your day!<br> I also would like to include my 
       </p>
     </div>
+    
+  <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="My favorite moments with you">
   </div>
 
   <!-- Footer -->
