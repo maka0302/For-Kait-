@@ -42,22 +42,22 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <!-- Photo grid -->
   <div class="w3-row">
     <div class="w3-third">
-      <img src="C:\Users\Mark Anton Rivera\Desktop\FIRST DATE\IMG_7506.JPEG" style="width:100%" onclick="onClick(this)" alt="The first time we decided to hangout! -January 31,2022">
-      <img src="C:\Users\Mark Anton Rivera\Desktop\Sky Blossom Galentines!\IMG_8761.JPEG" style="width: 345px; height: 410px;" onclick="onClick(this)" alt="Skyblossom Galentines day!! -February 13,2022">
-      <img src="C:\Users\Mark Anton Rivera\Desktop\Sushi + visiting grandma!\IMG_2429.jpeg" style="width: 345px; height:405px;" onclick="onClick(this)" alt="The day we visited my grandma and went to go get sushi! -March 7,2022">
+      <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_7506.JPEG?raw=true" style="width:100%" onclick="onClick(this)" alt="The first time we decided to hangout! -January 31,2022">
+      <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_8761.JPEG?raw=true" style="width: 345px; height: 410px;" onclick="onClick(this)" alt="Skyblossom Galentines day!! -February 13,2022">
+      <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_2429.jpeg?raw=true" style="width: 345px; height:405px;" onclick="onClick(this)" alt="The day we visited my grandma and went to go get sushi! -March 7,2022">
     </div>
 
     <div class="w3-third">
-      <img src="C:\Users\Mark Anton Rivera\Desktop\2nd time at ddonggo!\IMG_3663.JPG" style="width:100%" onclick="onClick(this)" alt="2nd time at ddonggo!! - February 11,2022">
+      <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_3663.JPG?raw=true" style="width:100%" onclick="onClick(this)" alt="2nd time at ddonggo!! - February 11,2022">
       <img src="https://github.com/maka0302/For-Kait-/blob/main/D73704B8-0C3A-433A-BD0F-39F4EC3A4E2D.jpeg?raw=true" style="width:100%" onclick="onClick(this)" alt="The day we went to Deep Ellum! -March 20,2022">
-      <img src="C:\Users\Mark Anton Rivera\Desktop\rave!\IMG_2996.jpeg" style="width:100%" onclick="onClick(this)" alt="Armnhmr! Our first concert/Rave together! -March 2,2022">
+      <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_2996.jpeg?raw=true" style="width:100%" onclick="onClick(this)" alt="Armnhmr! Our first concert/Rave together! -March 2,2022">
     </div>
     
     <div class="w3-third">
-        <img src="C:\Users\Mark Anton Rivera\Desktop\First TIME @ ddonggo\omg.jpg" style="width: 350px; height: 350px;" onclick="onClick(this)" alt="Our first time together in ddonggo! -February 6,2022">
-        <img src="C:\Users\Mark Anton Rivera\Desktop\Sushi + visiting grandma!\IMG_2360.jpeg" style="width:100%" onclick="onClick(this)" alt="We visited my grandma! hehe -March 7,2022">
-        <img src="C:\Users\Mark Anton Rivera\Desktop\That one Facetime call\LP2.JPEG" style="width:100%" onclick="onClick(this)" alt="The facetime call where I folded hard :D -February 7,2022">
-        <img src="C:\Users\Mark Anton Rivera\Desktop\Mozart Bakery!\Photo on 2-11-22 at 8.23 PM.jpg" style="width:100%" onclick="onClick(this)" alt="First time in Mozart! -February 11,2022">
+        <img src="https://github.com/maka0302/For-Kait-/blob/main/omg.jpg?raw=true" style="width: 350px; height: 350px;" onclick="onClick(this)" alt="Our first time together in ddonggo! -February 6,2022">
+        <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_2360.jpeg?raw=true" style="width:100%" onclick="onClick(this)" alt="We visited my grandma! hehe -March 7,2022">
+        <img src="https://github.com/maka0302/For-Kait-/blob/main/LP2.JPEG?raw=true" style="width:100%" onclick="onClick(this)" alt="The facetime call where I folded hard :D -February 7,2022">
+        <img src="https://github.com/maka0302/For-Kait-/blob/main/Photo%20on%202-11-22%20at%208.23%20PM.jpg?raw=true" style="width:100%" onclick="onClick(this)" alt="First time in Mozart! -February 11,2022">
       </div>
   </div>
 
@@ -73,10 +73,10 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <!-- About section -->
   <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="about">
     <h4><b>For you!</b></h4>
-    <img src="C:\Users\Mark Anton Rivera\Desktop\FIRST DATE\IMG_7514.JPEG" alt="For you!" class="w3-image w3-padding-32" width="600" height="650">
+    <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_7514.JPEG?raw=true" alt="For you!" class="w3-image w3-padding-32" width="600" height="650">
     <div class="w3-content w3-justify" style="max-width:600px">
       <h4>Dear Kaitlyn</h4>
-      <p>Let me start with I'm glad that I met you! Ever since I met you life has been so bright and the future seems so much more brighter now! I know that this is our honeymoon phase but let me express how much I cherish what we have going and how much I'm so thankful for everything! Thankful for your care,worries,love, all the laughs that we have,our little adventures and etc you name it!! I know that this is a bit wonky and like a bit bad  but I hope that this would put a smile in your face and hopefully make your day!
+      <p>Let me start with I'm glad that I met you! Ever since I met you life has been so bright and the future seems so much more brighter now! I know that this is our honeymoon phase but let me express how much I cherish what we have going and how much I'm so thankful for everything! Thankful for your care,worries,love, all the laughs that we have,our little adventures and etc you name it!! I know that this is a bit wonky and like a bit bad  but I hope that this would put a smile in your face and hopefully make your day!<br> I also would like to include my 
       </p>
     </div>
   </div>
