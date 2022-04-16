@@ -84,6 +84,9 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     </div>
     
   <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="My favorite moments with you">
+    <h4><b> My favorite moments with you!</b></h4>
+    <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_1037.jpeg?raw=true" alt"My favorite moments with you!" class="w3-image w3-padding-32" style="width:100%">
+    <p>This is a moment</p>
     </div>
   </div>
 
