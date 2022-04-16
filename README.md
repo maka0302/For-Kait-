@@ -76,16 +76,16 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <!-- About section -->
   <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="about">
     <h4><b>For you!</b></h4>
-    <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_7514.JPEG?raw=true" alt="For you!" class="w3-image w3-padding-32" width="600" height="650">
+    <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_7514.JPEG?raw=true" alt="For you!" class="w3-image w3-padding-32" width="100%">
     <div class="w3-content w3-justify" style="max-width:600px">
       <h4>Dear Kaitlyn</h4>
-      <p>Let me start with I'm glad that I met you! Ever since I met you life has been so bright and the future seems so much more brighter now! I know that this is our honeymoon phase but let me express how much I cherish what we have going and how much I'm so thankful for everything! Thankful for your care,worries,love, all the laughs that we have,our little adventures and etc you name it!! I know that this is a bit wonky and like a bit bad  but I hope that this would put a smile in your face and hopefully make your day!<br> I also would like to include my 
+      <p>Let me start with I'm glad that I met you! Ever since I met you life has been so bright and the future seems so much more brighter now! I know that this is our honeymoon phase but let me express how much I cherish what we have going and how much I'm so thankful for everything! Thankful for your care,worries,love, all the laughs that we have,our little adventures and etc you name it!! I know that this is a bit wonky and like a bit bad  but I hope that this would put a smile in your face and hopefully make your day!<br> I also would like to include my letter in this website so that you can just get on the website and read it whenever you want to!
       </p>
     </div>
     
   <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="My favorite moments with you">
     <h4><b> My favorite moments with you!</b></h4>
-    <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_1037.jpeg?raw=true" alt"My favorite moments with you!" class="w3-image w3-padding-32" style="width:100%">
+    
     <p>This is a moment</p>
     </div>
   </div>
