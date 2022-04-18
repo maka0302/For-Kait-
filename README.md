@@ -54,7 +54,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
       <img src="https://github.com/maka0302/For-Kait-/blob/main/D73704B8-0C3A-433A-BD0F-39F4EC3A4E2D.jpeg?raw=true" style="width:100%" onclick="onClick(this)" alt="The day we went to Deep Ellum! -March 20,2022">
       <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_2996.jpeg?raw=true" style="width:100%" onclick="onClick(this)" alt="Armnhmr! Our first concert/Rave together! -March 2,2022">
       <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_1037.jpeg?raw=true" style="width:100%" onclick="onClick(this)" alt="Back at Goodphil! -March 13,2022">
-      <img src="https://github.com/maka0302/For-Kait-/blob/main/lp_image.JPEG?raw=true" style="width:100%" onclick="onClick(this)" alt="That one facetime call! -February 7,2022">
+      <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_0567.JPEG?raw=true" style="width:100%" onclick="onClick(this)" alt="When we went to jollibee with Shab and Devin! -March 5,2022">
     </div>
     
     <div class="w3-third">
