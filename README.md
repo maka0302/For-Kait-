@@ -46,6 +46,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
       <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_7506.JPEG?raw=true" style="width:100%" onclick="onClick(this)" alt="The first time we decided to hangout! -January 31,2022">
       <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_8761.JPEG?raw=true" style="width:100%" onclick="onClick(this)" alt="Skyblossom Galentines day!! -February 13,2022">
       <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_2429.jpeg?raw=true" style="width:100%" onclick="onClick(this)" alt="The day we visited my grandma and went to go get sushi! -March 7,2022">
+      <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_1090.jpeg?raw=true" style="width:100%" onclick="onClick(this)" alt="In your house! -March 13,2022">
     </div>
 
     <div class="w3-third">
@@ -53,6 +54,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
       <img src="https://github.com/maka0302/For-Kait-/blob/main/D73704B8-0C3A-433A-BD0F-39F4EC3A4E2D.jpeg?raw=true" style="width:100%" onclick="onClick(this)" alt="The day we went to Deep Ellum! -March 20,2022">
       <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_2996.jpeg?raw=true" style="width:100%" onclick="onClick(this)" alt="Armnhmr! Our first concert/Rave together! -March 2,2022">
       <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_1037.jpeg?raw=true" style="width:100%" onclick="onClick(this)" alt="Back at Goodphil! -March 13,2022">
+      <img src="https://github.com/maka0302/For-Kait-/blob/main/lp_image.JPEG?raw=true" style="width:100%" onclick="onClick(this)" alt="That one facetime call! -February 7,2022">
     </div>
     
     <div class="w3-third">
@@ -87,7 +89,11 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <h4><b> My favorite moments with you!</b></h4>
     
     <p>That time when we decided to meet up in the cafe and we talked and drank a white mocha drink and you got a matcha drink!<br>
-       <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_7512.JPEG?raw=true" alt="Favorite moments with you!" class="w3-image w3-padding-32" width="100%">
+       <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_7512.JPEG?raw=true" alt="Favorite moments with you!" class="w3-image w3-padding-32" width="100%"></br>
+    That time when we were facetiming for hours!<br>
+    <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_3606.JPG?raw=true" alt="Favorite moments with you!" class="w3-image w3-padding-32" width="100%"></br>
+    That time when we were at ddonggo for the first time!<br>
+    <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_3586.jpeg?raw=true" alt="Favorite moments with you!" class="w3-image w3-padding-32" width="100%"></br>
     
     
     
@@ -118,6 +124,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   
   <div class="w3-black w3-center w3-padding-24"><a href="https://open.spotify.com/playlist/32WshT6y2SsscAamIhcgvH?si=d8b93539c29542cb&nd=1" title="Spotify" target="_blank" class="w3-hover-opacity">Click the link!</a></div>
   <div class="w3-black w3-center w3-padding-24"><a href="https://anotepad.com/notes/bh97d7d6" title="Letter for you!" target="_blank" class="w3-hover-opacity">Something for you <3</a></div>
+  <div class="w3-black w3-center w3-padding-24"><a href="https://open.spotify.com/playlist/2oJ7DH3KZl0n1D70VNEpWT?si=246336fe9d4149fc&nd=1&pt_success=1" title="Spotify playlist for the letter!" target="_blank" class="w3-hover-opacity">Something for you <3</a></div>
   <div class="w3-black w3-center w3-padding-24"><a href="https://www.notion.so/Mark-Kait-s-Schedule-b8b8a228337440ee89b7bbbd5e61c1b8" title="Notion" target="_blank" class="w3-hover-opacity">Our Notion!</a></div>
 <!-- End page content -->
 </div>
