@@ -112,7 +112,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   </footer>
   
   <div class="w3-black w3-center w3-padding-24"><a href="https://open.spotify.com/playlist/0iMahFLobc6KnckJm1FcFc?si=010bd03ee67e4785&nd=1" title="Spotify" target="_blank" class="w3-hover-opacity">Click the link!</a></div>
-
+  <div class="w3-black w3-center w3-padding-24"><a href="https://anotepad.com/notes/bh97d7d6" title="Letter for you!" target="_blank" class="w3-hover-opacity">Something for you <3</a></div>
   <div class="w3-black w3-center w3-padding-24"><a href="https://www.notion.so/Mark-Kait-s-Schedule-b8b8a228337440ee89b7bbbd5e61c1b8" title="Notion" target="_blank" class="w3-hover-opacity">Our Notion!</a></div>
 <!-- End page content -->
 </div>
