@@ -96,7 +96,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_3586.jpeg?raw=true" alt="Favorite moments with you!" class="w3-image w3-padding-32" width="100%">
     When we went to Six flags!<br>
     <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_9501.jpeg?raw=true" alt="Favorite moments with you!" class="w3-image w3-padding-32" width="100%">
-    When you let me borrow chicken butt <3 <br>
+    When you let me borrow chicken butt <br>
     <img src="https://github.com/maka0302/For-Kait-/blob/main/66693350168__50734494-13DE-4306-9B93-7AD0FFE91EDC.fullsizerender.JPEG?raw=true" class="w3-image w3-padding-32" width="100%">
     
     
