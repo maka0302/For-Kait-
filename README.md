@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
 <title>For you!</title>
@@ -86,7 +86,12 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="My favorite moments with you">
     <h4><b> My favorite moments with you!</b></h4>
     
-    <p>This is a moment</p>
+    <p>That time when we decided to meet up in the cafe and we talked and drank a white mocha drink and you got a matcha drink!<br>
+       <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_7512.JPEG?raw=true" alt="Favorite moments with you!" class="w3-image w3-padding-32" width="100%">
+    
+    
+    
+    </p>
     </div>
   </div>
 
@@ -111,7 +116,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     </div>
   </footer>
   
-  <div class="w3-black w3-center w3-padding-24"><a href="https://open.spotify.com/playlist/0iMahFLobc6KnckJm1FcFc?si=010bd03ee67e4785&nd=1" title="Spotify" target="_blank" class="w3-hover-opacity">Click the link!</a></div>
+  <div class="w3-black w3-center w3-padding-24"><a href="https://open.spotify.com/playlist/32WshT6y2SsscAamIhcgvH?si=d8b93539c29542cb&nd=1" title="Spotify" target="_blank" class="w3-hover-opacity">Click the link!</a></div>
   <div class="w3-black w3-center w3-padding-24"><a href="https://anotepad.com/notes/bh97d7d6" title="Letter for you!" target="_blank" class="w3-hover-opacity">Something for you <3</a></div>
   <div class="w3-black w3-center w3-padding-24"><a href="https://www.notion.so/Mark-Kait-s-Schedule-b8b8a228337440ee89b7bbbd5e61c1b8" title="Notion" target="_blank" class="w3-hover-opacity">Our Notion!</a></div>
 <!-- End page content -->
