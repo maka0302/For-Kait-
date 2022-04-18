@@ -89,11 +89,15 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <h4><b> My favorite moments with you!</b></h4>
     
     <p>That time when we decided to meet up in the cafe and we talked and drank a white mocha drink and you got a matcha drink!<br>
-       <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_7512.JPEG?raw=true" alt="Favorite moments with you!" class="w3-image w3-padding-32" width="70%">
+       <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_7512.JPEG?raw=true" alt="Favorite moments with you!" class="w3-image w3-padding-32" width="100%">
     That time when we were facetiming for hours!<br>
-    <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_3606.JPG?raw=true" alt="Favorite moments with you!" class="w3-image w3-padding-32" width="70%">
+    <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_3606.JPG?raw=true" alt="Favorite moments with you!" class="w3-image w3-padding-32" width="100%">
     That time when we were at ddonggo for the first time!<br>
-    <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_3586.jpeg?raw=true" alt="Favorite moments with you!" class="w3-image w3-padding-32" width="70%">
+    <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_3586.jpeg?raw=true" alt="Favorite moments with you!" class="w3-image w3-padding-32" width="100%">
+    When we went to Six flags!<br>
+    <img src="https://github.com/maka0302/For-Kait-/blob/main/IMG_9501.jpeg?raw=true" alt="Favorite moments with you!" class="w3-image w3-padding-32" width="100%">
+    When you let me borrow chicken butt <3 <br>
+    <img src="https://github.com/maka0302/For-Kait-/blob/main/66693350168__50734494-13DE-4306-9B93-7AD0FFE91EDC.fullsizerender.JPEG?raw=true" alt"Favorite moments with you!" class="w3-image w3-padding-32" width="100%">
     
     
     
