@@ -27,7 +27,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 
 <!-- Top menu on small screens -->
 <header class="w3-container w3-top w3-hide-large w3-white w3-xlarge w3-padding-16">
-  <span class="w3-left w3-padding">First Month!</span>
+  <span class="w3-left w3-padding">Website for you!</span>
   <a href="javascript:void(0)" class="w3-right w3-button w3-white" onclick="w3_open()">☰</a>
 </header>
 
@@ -126,7 +126,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     </div>
   </footer>
   
-  <div class="w3-black w3-center w3-padding-24"><a href="https://open.spotify.com/playlist/6zSJQTBR95lWMh1XlFcow8?si=6af488bfb0e646ff&nd=1" title="Spotify" target="_blank" class="w3-hover-opacity">Click the link!</a></div>
+  <div class="w3-black w3-center w3-padding-24"><a href="https://open.spotify.com/playlist/5ZYOj3FhaBjoDDpZqqpwRn?si=93862bd1a7c04220" title="Spotify" target="_blank" class="w3-hover-opacity">Click the link!</a></div>
   <div class="w3-black w3-center w3-padding-24"><a href="https://anotepad.com/notes/bh97d7d6" title="Letter for you!" target="_blank" class="w3-hover-opacity">Something for you <3</a></div>
   <div class="w3-black w3-center w3-padding-24"><a href="https://open.spotify.com/playlist/2oJ7DH3KZl0n1D70VNEpWT?si=246336fe9d4149fc&nd=1&pt_success=1" title="Spotify playlist for the letter!" target="_blank" class="w3-hover-opacity">Playlist hehe <3</a></div>
   <div class="w3-black w3-center w3-padding-24"><a href="https://www.notion.so/Mark-Kait-s-Schedule-b8b8a228337440ee89b7bbbd5e61c1b8" title="Notion" target="_blank" class="w3-hover-opacity">Our Notion!</a></div>
